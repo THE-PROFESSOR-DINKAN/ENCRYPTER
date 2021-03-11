@@ -12,7 +12,7 @@ pkg install git
 
 pip3 install pyfiglet
 
-git clone 
+git clone https://github.com/devadathanM/ENCRYPTER.git 
 
 ls 
 
